@@ -7,3 +7,8 @@ Some text.
 Some more text!
 
 Adding more text.
+
+
+## Making an edit on the feature branch from GitHub.
+
+Some more text. 
